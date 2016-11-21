@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SampleMetadata>
+  <ID>9a54f064-b80c-4685-bd90-aa174c8d0a1a</ID>
+  <IsFullApplication>true</IsFullApplication>
+  <Level>Beginning</Level>
+  <Tags>Getting Started, User Interface</Tags>
+  <Gallery>true</Gallery>
+  <Brief>Demonstrates how to build your first Xamarin.Mac application.</Brief>
+</SampleMetadata>

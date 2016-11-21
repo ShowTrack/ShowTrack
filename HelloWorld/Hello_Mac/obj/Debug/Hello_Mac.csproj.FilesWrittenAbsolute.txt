@@ -1,0 +1,14 @@
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/obj/Debug/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/obj/Debug/actool/partial-info.plist
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/obj/Debug/actool/asset-manifest.plist
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/obj/Debug/actool/bundle/AppIcons.icns
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/obj/Debug/ibtool-manifests/link
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/obj/Debug/ibtool-link/Main.storyboardc/Info.plist
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/obj/Debug/ibtool-link/Main.storyboardc/MainMenu.nib
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/obj/Debug/ibtool-link/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/obj/Debug/ibtool-link/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/bin/Debug/Hello_Mac.exe.mdb
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/bin/Debug/Hello_Mac.exe
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/obj/Debug/Hello_Mac.exe
+/Users/alexandramannix/ShowTrack/HelloWorld/Hello_Mac/obj/Debug/Hello_Mac.exe.mdb
