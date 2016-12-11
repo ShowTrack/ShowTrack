@@ -1,4 +1,4 @@
-﻿// WARNING
+// WARNING
 //
 // This file has been generated automatically by Xamarin Studio to store outlets and
 // actions made in the UI designer. If it is removed, they will be lost.
@@ -15,6 +15,15 @@ namespace Hello_Mac
 		[Outlet]
 		AppKit.NSTextField ClickedLabel { get; set; }
 
+		[Outlet]
+		AppKit.NSTableColumn CueNumberColumn { get; set; }
+
+		[Outlet]
+		AppKit.NSTableView CueTable { get; set; }
+
+		[Outlet]
+		AppKit.NSTableColumn CueTimeColumn { get; set; }
+
 		[Action ("ClickedButton:")]
 		partial void ClickedButton (Foundation.NSObject sender);
 		
@@ -23,6 +32,21 @@ namespace Hello_Mac
 			if (ClickedLabel != null) {
 				ClickedLabel.Dispose ();
 				ClickedLabel = null;
+			}
+
+			if (CueTable != null) {
+				CueTable.Dispose ();
+				CueTable = null;
+			}
+
+			if (CueTimeColumn != null) {
+				CueTimeColumn.Dispose ();
+				CueTimeColumn = null;
+			}
+
+			if (CueNumberColumn != null) {
+				CueNumberColumn.Dispose ();
+				CueNumberColumn = null;
 			}
 		}
 	}

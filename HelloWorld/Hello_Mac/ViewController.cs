@@ -44,7 +44,21 @@ namespace Hello_Mac
 
 			// Update counter and label
 			ClickedLabel.StringValue = string.Format("The button has been clicked {0} time{1}.",++numberOfTimesClicked, (numberOfTimesClicked < 2) ? "" : "s");
+
 		}
 		#endregion
+
+		public override void AwakeFromNib()
+		{
+			base.AwakeFromNib();
+
+			var DataSource = new CueDataSource();
+			DataSource.CueList.Add(new Cue() { number = 1, time = 5 }); 
+			DataSource.CueList.Add(new Cue() { number = 2, time = 6 });
+
+			this.CueTable.DataSource = DataSource;
+			this.CueTable.Delegate = new CueTableDelegate(DataSource); 
+
+		}
 	}
 }

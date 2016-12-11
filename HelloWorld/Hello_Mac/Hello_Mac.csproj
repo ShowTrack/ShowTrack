@@ -76,6 +76,9 @@
     <Compile Include="ViewController.designer.cs">
       <DependentUpon>ViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="Cue.cs" />
+    <Compile Include="CueDataSource.cs" />
+    <Compile Include="CueTableDelegate.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Main.storyboard" />
