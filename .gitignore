@@ -1,3 +1,5 @@
-**/obj/*
-**/bin/*
+HelloWorld/Hello_Mac/obj/**
+HelloWorld/Hello_Mac/bin/**
+HelloWorld/Hello_Mac/bin/Debug/**
+HelloWorld/Hello_Mac/obj/Debug/**
 HelloWorld/Hello_Mac.userprefs
